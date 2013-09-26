@@ -603,7 +603,7 @@
     onDomReady  : function() {
       $('a.sc-player, div.sc-player').scPlayer();
     },
-    autoPlay: false,
+    autoPlay: true,
     continuePlayback: true,
     randomize: false,
     loadArtworks: 5,
